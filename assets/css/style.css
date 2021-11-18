@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a span, .nav-menu a:focus span {
   padding: 0 5px 0 7px;
-  color: #2b2c2c;
+  color: #fff;
 }
 @media (min-width: 992px) {
   .nav-menu a, .nav-menu a:focus {
