@@ -288,6 +288,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 20px;
   transition: 0.3s;
 }
+/* possibly change this orange to something that has a better contrast */
 #hero .social-links a:hover {
   color: #FD8C42;
 }
